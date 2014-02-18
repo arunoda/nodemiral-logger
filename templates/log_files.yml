@@ -1,0 +1,7 @@
+files: 
+<% logFiles.forEach(function(file) { %>
+  - <%= file %>
+<% }); %>
+destination:
+  host: <%= host %>
+  port: <%= port %>

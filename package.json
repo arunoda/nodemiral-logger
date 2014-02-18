@@ -1,0 +1,14 @@
+{
+  "name": "nodemiral-logger",
+  "version": "0.1.0",
+  "description": "Syslog Logger packaged for Nodemiral",
+  "main": "index.js",
+  "dependencies": {
+    "nodemiral": "0.3.x"
+  },
+  "keywords": [
+    "nodemiral",
+    "syslog",
+    "logger"
+  ]
+}
